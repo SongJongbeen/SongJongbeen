@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SongJongbeen
-- 👀 I’m interested in NLP, DeepLearning, Parliamentary Debate, Cocktail, Linguistics
-- 🌱 I’m currently learning chatbot
+- 👀 I’m interested in NLP, AI, ML
+- 🌱 I’m currently researching to improve LLM's performance on low-resource languages
 - 📫 How to reach me with 1041489@gmail.com
 
 <!---

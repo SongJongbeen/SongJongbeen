@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SongJongbeen
 - 👀 I’m interested in NLP, AI, ML
-- 🌱 I’m currently researching to improve LLM's performance on low-resource languages
+- 🌱 I’m currently interested in multi-agent AI.
 - 📫 How to reach me with 1041489@gmail.com
 
 <!---

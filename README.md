@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SongJongbeen
-- 👀 I’m interested in NLP, AI, ML
-- 🌱 I’m currently interested in multi-agent AI.
+- 👀 I’m interested in STS, NLP, AI, Communication
+- 🌱 I’m currently interested in AI Alignment and Algorithmic Auditing.
 - 📫 How to reach me with 1041489@gmail.com
 
 <!---
